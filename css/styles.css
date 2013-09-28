@@ -1,0 +1,169 @@
+/*=========================================
+	BASIC PAGE SETUP
+  =========================================*/
+
+body {
+	margin: 0px;
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+a {	text-decoration: none; }
+
+h1 {
+	padding: 20px;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #fff;
+	background-color: #000;
+}
+
+h1 a { color: #fff; }
+
+#content { padding: 10px; }
+
+
+/*=========================================
+	MOVIE BLOCKS
+  =========================================*/
+
+.movie {
+	float: left;
+	width: 300px;
+	height: 250px;
+	margin: 10px;
+	background-color: #eee;
+	border: 1px solid #aaa;
+}
+
+.movie > p:first-child {
+	height: 20px;
+	margin-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 2px;
+	border-bottom: 2px solid #ccc;
+	font-weight: bold;
+}
+
+.movie > p:first-child a { color: #000; }
+
+.movie p:first-child span {
+	vertical-align: text-top;
+	font-size: 0.8em;
+	font-weight: normal;
+	color: #aaa;
+}
+
+.critique {
+	height: 48px;
+	text-align: center;
+	padding: 2px;
+	font-size: 0.71em;
+	color: #aaa;
+	background-color: #ffc;
+	border-bottom: 2px solid #aaa;
+} 
+
+.tweets {
+	height: 166px;
+	overflow-y: auto;
+	font-size: 0.86em;
+	color: #ccc;
+	background-color: #555;
+}
+
+.tweets p, .tweets ul li { line-height: 1.2em; padding: 10px; }
+.tweets ul li a { color: #acf; }
+.tweets ul li a.username { color: #5af; font-weight: bold; }
+
+
+/*=========================================
+	ROTTEN TOMATOES IMAGES (taken from site)
+  =========================================*/
+  
+.icon_tiny_fresh {
+	-webkit-border-horizontal-spacing: 0px;
+	-webkit-border-vertical-spacing: 0px;
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: transparent;
+	background-image: url('../img/icons-v2.png');
+	background-origin: padding-box;
+	background-position: -256px -144px;
+	border-bottom-color: #333;
+	border-bottom-width: 0px;
+	border-collapse: collapse;
+	border-left-color: #333;
+	border-left-width: 0px;
+	border-right-color: #333;
+	border-right-width: 0px;
+	border-top-color: #333;
+	border-top-width: 0px;
+	color: #333;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	height: 16px;
+	line-height: 16px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	outline-color: #333;
+	outline-style: none;
+	outline-width: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	position: static;
+	vertical-align: text-bottom;
+	width: 16px;
+}
+
+.icon_tiny_rotten {
+	-webkit-border-horizontal-spacing: 0px;
+	-webkit-border-vertical-spacing: 0px;
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: transparent;
+	background-image: url('../img/icons-v2.png');
+	background-origin: padding-box;
+	background-position: -272px -144px;
+	border-bottom-color: #333;
+	border-bottom-width: 0px;
+	border-collapse: collapse;
+	border-left-color: #333;
+	border-left-width: 0px;
+	border-right-color: #333;
+	border-right-width: 0px;
+	border-top-color: #333;
+	border-top-width: 0px;
+	color: #333;
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	height: 16px;
+	line-height: 16px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	outline-color: #333;
+	outline-style: none;
+	outline-width: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	position: static;
+	vertical-align: text-bottom;
+	width: 16px;
+}
+
