@@ -11,7 +11,15 @@ function getConnectionWithAccessToken($oauth_token, $oauth_token_secret) {
 }
  
 $connection = getConnectionWithAccessToken(OAUTH_TOKEN, OAUTH_TOKEN_SECRET);
-$content = $connection->get("statuses/home_timeline");
+$content = $connection->get("search/tweets",
+	array(
+		'q' => 'twitter',
+		'lang' => 'en',
+		'count' => '5',
+		'result_type' => 'mixed',
+		'include_entities' => 'true'
+	)
+);
 
 /* Include HTML to display on the page */
 include('html.inc');

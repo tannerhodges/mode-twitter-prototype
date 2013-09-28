@@ -12,15 +12,18 @@
   </head>
   <body>
 
-    <div>
-      <?php
-        print_r($content);
-      ?>
-    </div>
-
     <h1><a href="#">Rotten Tweetoes</a></h1>
 
-    <p><small>If you are having issues try <a href='./clearsessions.php'>clearing your session</a>.</small></p>
+    <p>
+      <small>
+        <?php
+          // Display a tweet
+          echo "Tweets returned: " . count( $content->statuses ) . "<br />";
+          echo "Tweet #1: \"" . $content->statuses[0]->text . "\"<br />";
+        ?>
+        If you are having issues try <a href='./clearsessions.php'>clearing your session</a>.
+      </small>
+    </p>
 
     <div id="content"><p>Loading Movies...</p></div>
 
