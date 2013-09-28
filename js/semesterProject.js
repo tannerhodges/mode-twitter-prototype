@@ -37,6 +37,7 @@ $(document).ready(function() {
 					
 					// TWITTER
 					// For the movie's title anchor, on 'click' run the following
+/* PAUSE
 					$('#content .movie:nth-child(' + (x+1) + ') p:first-child a').bind('click', function(e) {
 						// Prevent the anchor from redirecting
 						e.preventDefault();
@@ -76,6 +77,7 @@ $(document).ready(function() {
 					
 					// In order to load all the tweets, trigger them by "clicking" the link to each movie
 					$('#content .movie:nth-child(' + (x+1) + ') p:first-child a').trigger('click');
+*/
 				}
 			},
 			// If the request is unsuccessful, log an error report
