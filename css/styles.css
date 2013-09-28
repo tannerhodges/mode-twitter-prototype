@@ -10,6 +10,8 @@ body {
 
 a {	text-decoration: none; }
 
+p small {	display: block; padding: 10px; font-size: 0.75em; color: #aaa; }
+
 h1 {
 	padding: 20px;
 	font-size: 1.5em;
