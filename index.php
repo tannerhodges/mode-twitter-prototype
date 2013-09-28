@@ -1,8 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 	<head>
-		<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-		<title>DIG4503 – Tanner Hodges – Semester Project</title>
+    <meta charset="utf-8">
+		<title>Tweetoes = Rotten Tomatoes + Twitter</title>
 		<link rel="stylesheet" href="css/reset.css" />
 		<link rel="stylesheet" href="css/styles.css" />
 		<script type="text/javascript" src="js/jquery.min.js"></script>
