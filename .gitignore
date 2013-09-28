@@ -1,5 +1,6 @@
 # Hide my super-secret auth codes
 keys.php
+config.php
 
 # Hide all that other junk
 error_log
