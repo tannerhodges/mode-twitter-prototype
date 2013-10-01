@@ -59,25 +59,26 @@ $(document).ready(function() {
 								// Log the returned data object (tweets array) to the browser console
 								console.log(data);
 
-								// If data is correct (i.e, an array), process for display
-								if( $.isArray(data) ) {
-
 									// Add a new <ul> to the respective movie element's "tweets" <div>
 									$('#content .movie:nth-child(' + (index) + ') div.tweets').html('<ul></ul>');
 
 									// Cycle through the tweets and add each one as a new <li>
-									for(x=0; x<data.results.length; x++) {
-										var tweet = '<li><a class="username" href="http://twitter.com/' + data.results[x].from_user + '">' + data.results[x].from_user + '</a>: ' + replaceURLs(data.results[x].text) + '</li>';
+									for(x=0; x<data.statuses.length; x++) {
+										
+										// Create tweet variable from data
+										var tweet =
+										'<li>' + 
+										/* Username + link to user profile */
+										'<a class="username" href="http://twitter.com/' + data.statuses[x].user.name + '">' + data.statuses[x].user.name + '</a>: ' + 
+										/* Status with embedded URLs */
+										replaceURLs(data.statuses[x].text) + '</li>';
+
+										// Add tweet to DOM
 										$('#content .movie:nth-child(' + (index) + ') div.tweets ul').append(tweet);
 									}
 
 									// Remove the "Loading" text from the "tweets" div
 									$('#content .movie:nth-child(' + (index) + ') div.tweets p').remove();
-								}
-								else {
-									// If the data is not an array, log an error report 
-									console.log("Error: data is not an array.");
-								}
 
 							},
 							// If the request is unsuccessful, log an error report
