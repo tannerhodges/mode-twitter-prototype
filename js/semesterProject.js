@@ -37,7 +37,6 @@ $(document).ready(function() {
 					
 					// TWITTER
 					// For the movie's title anchor, on 'click' run the following
-/* PAUSE
 					$('#content .movie:nth-child(' + (x+1) + ') p:first-child a').bind('click', function(e) {
 						// Prevent the anchor from redirecting
 						e.preventDefault();
@@ -47,6 +46,8 @@ $(document).ready(function() {
 						$('#content .movie:nth-child(' + (index) + ') div.tweets').html('<p>Loading Tweets...</p><ul></ul>');
 
 						// Use jQuery's ajax function to make a request to Twitter
+						console.log( 'includes/twitter.php?x=' + index + '&title=' + $(this).text() );
+
 						$.ajax({
 							method: 'get',
 							dataType: 'json',
@@ -57,15 +58,27 @@ $(document).ready(function() {
 							success: function(data) {
 								// Log the returned data object (tweets array) to the browser console
 								console.log(data);
-								// Add a new <ul> to the respective movie element's "tweets" <div>
-								$('#content .movie:nth-child(' + (index) + ') div.tweets').html('<ul></ul>');
-								// Cycle through the tweets and add each one as a new <li>
-								for(x=0; x<data.results.length; x++) {
-									var tweet = '<li><a class="username" href="http://twitter.com/' + data.results[x].from_user + '">' + data.results[x].from_user + '</a>: ' + replaceURLs(data.results[x].text) + '</li>';
-									$('#content .movie:nth-child(' + (index) + ') div.tweets ul').append(tweet);
+
+								// If data is correct (i.e, an array), process for display
+								if( $.isArray(data) ) {
+
+									// Add a new <ul> to the respective movie element's "tweets" <div>
+									$('#content .movie:nth-child(' + (index) + ') div.tweets').html('<ul></ul>');
+
+									// Cycle through the tweets and add each one as a new <li>
+									for(x=0; x<data.results.length; x++) {
+										var tweet = '<li><a class="username" href="http://twitter.com/' + data.results[x].from_user + '">' + data.results[x].from_user + '</a>: ' + replaceURLs(data.results[x].text) + '</li>';
+										$('#content .movie:nth-child(' + (index) + ') div.tweets ul').append(tweet);
+									}
+
+									// Remove the "Loading" text from the "tweets" div
+									$('#content .movie:nth-child(' + (index) + ') div.tweets p').remove();
 								}
-								// Remove the "Loading" text from the "tweets" div
-								$('#content .movie:nth-child(' + (index) + ') div.tweets p').remove();
+								else {
+									// If the data is not an array, log an error report 
+									console.log("Error: data is not an array.");
+								}
+
 							},
 							// If the request is unsuccessful, log an error report
 							error: function(data) {
@@ -73,11 +86,11 @@ $(document).ready(function() {
 								$('#content .movie:nth-child(' + (index) + ') div.tweets').html('Error loading Tweets.');
 							}
 						});
+
 					});
 					
 					// In order to load all the tweets, trigger them by "clicking" the link to each movie
 					$('#content .movie:nth-child(' + (x+1) + ') p:first-child a').trigger('click');
-*/
 				}
 			},
 			// If the request is unsuccessful, log an error report
