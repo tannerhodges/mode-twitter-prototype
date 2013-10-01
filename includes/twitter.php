@@ -1,5 +1,8 @@
 <?php
 
+// Specify character set in HTTP headers for better load time
+header('Content-type: application/json; charset=utf-8');
+
 // ADD VALIDATION REQUIREMENTS
 
 // Get parameters from AJAX request
