@@ -15,6 +15,7 @@ $connection = getConnectionWithAccessToken(OAUTH_TOKEN, OAUTH_TOKEN_SECRET);
 // Save connection to session for use in includes files
 $_SESSION['tweetoes_connection'] = $connection;
 
+// Pull sample content from Twitter
 $content = $connection->get("search/tweets",
 	array(
 		'q' => 'twitter',
