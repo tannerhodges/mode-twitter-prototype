@@ -82,7 +82,8 @@ $(document).ready(function() {
 							},
 							// If the request is unsuccessful, log an error report
 							error: function(data) {
-								console.log('Error (Twitter): ' + data);
+								console.log('Error (Twitter)');
+								console.log(data);
 								$('#content .movie:nth-child(' + (index) + ') div.tweets').html('Error loading Tweets.');
 							}
 						});
