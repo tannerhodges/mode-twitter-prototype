@@ -1,4 +1,4 @@
-<?php session_start( session_id() ); // Include session_id() to maintain single session
+<?php
 
 // Load required lib files
 require_once('twitteroauth/twitteroauth.php');
@@ -9,7 +9,7 @@ function getConnectionWithAccessToken($oauth_token, $oauth_token_secret) {
   $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, $oauth_token, $oauth_token_secret);
   return $connection;
 }
- 
+
 // Open connection
 $connection = getConnectionWithAccessToken(OAUTH_TOKEN, OAUTH_TOKEN_SECRET);
 // Save connection to session for use in includes files
