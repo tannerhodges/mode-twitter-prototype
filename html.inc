@@ -28,7 +28,7 @@
     <div id="content"><p>Loading Movies...</p></div>
 
     <!-- Scripts -->
-    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="js/semesterProject.js"></script>
     <!-- End Scripts -->
 
