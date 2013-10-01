@@ -16,11 +16,6 @@
 
     <p>
       <small>
-        <?php
-          // Display a tweet
-          echo "Tweets returned: " . count( $content->statuses ) . "<br />";
-          echo "Tweet #1: \"" . $content->statuses[0]->text . "\"<br />";
-        ?>
         If you are having issues try <a href='./clearsessions.php'>clearing your session</a>.
       </small>
     </p>
