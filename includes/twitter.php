@@ -1,5 +1,7 @@
 <?php
 
+// ADD VALIDATION REQUIREMENTS
+
 // Get parameters from AJAX request
 $x = $_GET['x'] + 1;
 $title = urlencode($_GET['title']);
@@ -34,6 +36,5 @@ print '{ "x": ' . $x . ', ';
 
 // Remove first character from the encoded data (i.e, the opening bracket, '{') to prevent parsing error
 print substr( json_encode($content), 1 );
-// print ' }';
 
 ?>
