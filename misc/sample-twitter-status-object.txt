@@ -1,0 +1,188 @@
+[metadata] => stdClass Object
+    (
+        [result_type] => popular
+        [iso_language_code] => en
+    )
+
+[created_at] => Fri Nov 08 09:57:55 +0000 2013
+[id] => 398751227682381825
+[id_str] => 398751227682381825
+[text] => I see... Same thing as always.
+#RorschachDoodle http://t.co/dtfeLfRcMS
+[source] => <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+[truncated] =>
+[in_reply_to_status_id] =>
+[in_reply_to_status_id_str] =>
+[in_reply_to_user_id] =>
+[in_reply_to_user_id_str] =>
+[in_reply_to_screen_name] =>
+[user] => stdClass Object
+    (
+        [id] => 16013055
+        [id_str] => 16013055
+        [name] => AJ Jefferies
+        [screen_name] => moonjam
+        [location] => Norwich
+        [description] => 3D artist, illustrator, animator & idiot.
+        [url] => http://t.co/nB0w1gewML
+        [entities] => stdClass Object
+            (
+                [url] => stdClass Object
+                    (
+                        [urls] => Array
+                            (
+                                [0] => stdClass Object
+                                    (
+                                        [url] => http://t.co/nB0w1gewML
+                                        [expanded_url] => http://www.moonjam.com
+                                        [display_url] => moonjam.com
+                                        [indices] => Array
+                                            (
+                                                [0] => 0
+                                                [1] => 22
+                                            )
+
+                                    )
+
+                            )
+
+                    )
+
+                [description] => stdClass Object
+                    (
+                        [urls] => Array
+                            (
+                            )
+
+                    )
+
+            )
+
+        [protected] =>
+        [followers_count] => 1750
+        [friends_count] => 1187
+        [listed_count] => 70
+        [created_at] => Wed Aug 27 15:43:22 +0000 2008
+        [favourites_count] => 464
+        [utc_offset] => 0
+        [time_zone] => London
+        [geo_enabled] =>
+        [verified] =>
+        [statuses_count] => 10214
+        [lang] => en
+        [contributors_enabled] =>
+        [is_translator] =>
+        [profile_background_color] => 3E2E23
+        [profile_background_image_url] => http://a0.twimg.com/profile_background_images/30927946/ourrobotoverlords.jpg
+        [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/30927946/ourrobotoverlords.jpg
+        [profile_background_tile] => 1
+        [profile_image_url] => http://pbs.twimg.com/profile_images/75399086/Donut_01_normal.jpg
+        [profile_image_url_https] => https://pbs.twimg.com/profile_images/75399086/Donut_01_normal.jpg
+        [profile_banner_url] => https://pbs.twimg.com/profile_banners/16013055/1360245484
+        [profile_link_color] => 0084B4
+        [profile_sidebar_border_color] => BDDCAD
+        [profile_sidebar_fill_color] => DDFFCC
+        [profile_text_color] => 333333
+        [profile_use_background_image] => 1
+        [default_profile] =>
+        [default_profile_image] =>
+        [following] =>
+        [follow_request_sent] =>
+        [notifications] =>
+    )
+
+[geo] =>
+[coordinates] =>
+[place] =>
+[contributors] =>
+[retweet_count] => 120
+[favorite_count] => 46
+[entities] => stdClass Object
+    (
+        [hashtags] => Array
+            (
+                [0] => stdClass Object
+                    (
+                        [text] => RorschachDoodle
+                        [indices] => Array
+                            (
+                                [0] => 31
+                                [1] => 47
+                            )
+
+                    )
+
+            )
+
+        [symbols] => Array
+            (
+            )
+
+        [urls] => Array
+            (
+            )
+
+        [user_mentions] => Array
+            (
+            )
+
+        [media] => Array
+            (
+                [0] => stdClass Object
+                    (
+                        [id] => 398751227573309440
+                        [id_str] => 398751227573309440
+                        [indices] => Array
+                            (
+                                [0] => 48
+                                [1] => 70
+                            )
+
+                        [media_url] => http://pbs.twimg.com/media/BYimIPlCEAAo2NX.jpg
+                        [media_url_https] => https://pbs.twimg.com/media/BYimIPlCEAAo2NX.jpg
+                        [url] => http://t.co/dtfeLfRcMS
+                        [display_url] => pic.twitter.com/dtfeLfRcMS
+                        [expanded_url] => http://twitter.com/moonjam/status/398751227682381825/photo/1
+                        [type] => photo
+                        [sizes] => stdClass Object
+                            (
+                                [large] => stdClass Object
+                                    (
+                                        [w] => 657
+                                        [h] => 363
+                                        [resize] => fit
+                                    )
+
+                                [thumb] => stdClass Object
+                                    (
+                                        [w] => 150
+                                        [h] => 150
+                                        [resize] => crop
+                                    )
+
+                                [medium] => stdClass Object
+                                    (
+                                        [w] => 599
+                                        [h] => 331
+                                        [resize] => fit
+                                    )
+
+                                [small] => stdClass Object
+                                    (
+                                        [w] => 338
+                                        [h] => 187
+                                        [resize] => fit
+                                    )
+
+                            )
+
+                    )
+
+            )
+
+    )
+
+[favorited] =>
+[retweeted] =>
+[possibly_sensitive] =>
+[lang] => en
