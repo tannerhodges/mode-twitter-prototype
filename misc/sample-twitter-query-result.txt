@@ -1,2633 +1,527 @@
-stdClass Object
+Array
 (
-    [statuses] => Array
+    [0] => stdClass Object
         (
-            [0] => stdClass Object
+            [created_at] => Thu Nov 07 15:56:01 +0000 2013
+            [id] => 398478958842617856
+            [id_str] => 398478958842617856
+            [text] => Silverton Partners looking to invest $75M in 25 early-stage ATX startups, nice! http://t.co/IUAgpGQgPv #tech... http://t.co/jZDM57e4N7
+            [source] => <a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>
+            [truncated] =>
+            [in_reply_to_status_id] =>
+            [in_reply_to_status_id_str] =>
+            [in_reply_to_user_id] =>
+            [in_reply_to_user_id_str] =>
+            [in_reply_to_screen_name] =>
+            [user] => stdClass Object
                 (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 09:57:55 +0000 2013
-                    [id] => 398751227682381825
-                    [id_str] => 398751227682381825
-                    [text] => I see... Same thing as always.
-#RorschachDoodle http://t.co/dtfeLfRcMS
-                    [source] => <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 16013055
-                            [id_str] => 16013055
-                            [name] => AJ Jefferies
-                            [screen_name] => moonjam
-                            [location] => Norwich
-                            [description] => 3D artist, illustrator, animator & idiot.
-                            [url] => http://t.co/nB0w1gewML
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/nB0w1gewML
-                                                            [expanded_url] => http://www.moonjam.com
-                                                            [display_url] => moonjam.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 1750
-                            [friends_count] => 1187
-                            [listed_count] => 70
-                            [created_at] => Wed Aug 27 15:43:22 +0000 2008
-                            [favourites_count] => 464
-                            [utc_offset] => 0
-                            [time_zone] => London
-                            [geo_enabled] =>
-                            [verified] =>
-                            [statuses_count] => 10214
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 3E2E23
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/30927946/ourrobotoverlords.jpg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/30927946/ourrobotoverlords.jpg
-                            [profile_background_tile] => 1
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/75399086/Donut_01_normal.jpg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/75399086/Donut_01_normal.jpg
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/16013055/1360245484
-                            [profile_link_color] => 0084B4
-                            [profile_sidebar_border_color] => BDDCAD
-                            [profile_sidebar_fill_color] => DDFFCC
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 120
-                    [favorite_count] => 46
+                    [id] => 19257576
+                    [id_str] => 19257576
+                    [name] => Mattr
+                    [screen_name] => Mattr_co
+                    [location] => San Francisco, CA
+                    [description] => Personalities Tell Powerful Stories. Mattr leads a new era for consumer insights, providing brands with a deeper, more colorful view into their social audience.
+                    [url] => http://t.co/3kRlR215rS
                     [entities] => stdClass Object
                         (
-                            [hashtags] => Array
+                            [url] => stdClass Object
                                 (
-                                    [0] => stdClass Object
+                                    [urls] => Array
                                         (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
+                                            [0] => stdClass Object
                                                 (
-                                                    [0] => 31
-                                                    [1] => 47
+                                                    [url] => http://t.co/3kRlR215rS
+                                                    [expanded_url] => http://www.mattr.co
+                                                    [display_url] => mattr.co
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 22
+                                                        )
+
                                                 )
 
                                         )
 
                                 )
 
-                            [symbols] => Array
+                            [description] => stdClass Object
                                 (
-                                )
-
-                            [urls] => Array
-                                (
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                            [media] => Array
-                                (
-                                    [0] => stdClass Object
+                                    [urls] => Array
                                         (
-                                            [id] => 398751227573309440
-                                            [id_str] => 398751227573309440
-                                            [indices] => Array
-                                                (
-                                                    [0] => 48
-                                                    [1] => 70
-                                                )
-
-                                            [media_url] => http://pbs.twimg.com/media/BYimIPlCEAAo2NX.jpg
-                                            [media_url_https] => https://pbs.twimg.com/media/BYimIPlCEAAo2NX.jpg
-                                            [url] => http://t.co/dtfeLfRcMS
-                                            [display_url] => pic.twitter.com/dtfeLfRcMS
-                                            [expanded_url] => http://twitter.com/moonjam/status/398751227682381825/photo/1
-                                            [type] => photo
-                                            [sizes] => stdClass Object
-                                                (
-                                                    [large] => stdClass Object
-                                                        (
-                                                            [w] => 657
-                                                            [h] => 363
-                                                            [resize] => fit
-                                                        )
-
-                                                    [thumb] => stdClass Object
-                                                        (
-                                                            [w] => 150
-                                                            [h] => 150
-                                                            [resize] => crop
-                                                        )
-
-                                                    [medium] => stdClass Object
-                                                        (
-                                                            [w] => 599
-                                                            [h] => 331
-                                                            [resize] => fit
-                                                        )
-
-                                                    [small] => stdClass Object
-                                                        (
-                                                            [w] => 338
-                                                            [h] => 187
-                                                            [resize] => fit
-                                                        )
-
-                                                )
-
                                         )
 
                                 )
 
                         )
 
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
+                    [protected] =>
+                    [followers_count] => 1039
+                    [friends_count] => 2002
+                    [listed_count] => 29
+                    [created_at] => Tue Jan 20 21:09:24 +0000 2009
+                    [favourites_count] => 42
+                    [utc_offset] => -21600
+                    [time_zone] => Central Time (US & Canada)
+                    [geo_enabled] =>
+                    [verified] =>
+                    [statuses_count] => 1789
                     [lang] => en
+                    [contributors_enabled] =>
+                    [is_translator] =>
+                    [profile_background_color] => E8E8E8
+                    [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000075802109/7a8ad764775cede72da1bf7b32efc95c.png
+                    [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000075802109/7a8ad764775cede72da1bf7b32efc95c.png
+                    [profile_background_tile] =>
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/19257576/1379345751
+                    [profile_link_color] => F50079
+                    [profile_sidebar_border_color] => 000000
+                    [profile_sidebar_fill_color] => EADEAA
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [default_profile] =>
+                    [default_profile_image] =>
+                    [following] =>
+                    [follow_request_sent] =>
+                    [notifications] =>
                 )
 
-            [1] => stdClass Object
+            [geo] =>
+            [coordinates] =>
+            [place] =>
+            [contributors] =>
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => stdClass Object
                 (
-                    [metadata] => stdClass Object
+                    [hashtags] => Array
                         (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 14:00:34 +0000 2013
-                    [id] => 398812292034613248
-                    [id_str] => 398812292034613248
-                    [text] => Mini dinosaur acrobats? A parachuter? What do you see in today's #RorschachDoodle? http://t.co/pxjbmYvYe7 http://t.co/xDHllgrMnK
-                    [source] => <a href="http://www.wildfireapp.com/?utm_source=Twitter&utm_medium=Tweet&utm_campaign=via%2BWildfire%2BSuite" rel="nofollow">Wildfire Suite</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 296459271
-                            [id_str] => 296459271
-                            [name] => Google Doodles
-                            [screen_name] => GoogleDoodles
-                            [location] => Mountain View, CA
-                            [description] => http://t.co/TvUKz9vr -
-We have no idea what to do with 140 characters – we're used to only 6!
-                            [url] => http://t.co/TvUKz9vr
-                            [entities] => stdClass Object
+                            [0] => stdClass Object
                                 (
-                                    [url] => stdClass Object
+                                    [text] => tech
+                                    [indices] => Array
                                         (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/TvUKz9vr
-                                                            [expanded_url] => http://www.google.com/doodles
-                                                            [display_url] => google.com/doodles
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 20
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/TvUKz9vr
-                                                            [expanded_url] => http://www.google.com/doodles
-                                                            [display_url] => google.com/doodles
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 20
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 59289
-                            [friends_count] => 31
-                            [listed_count] => 1328
-                            [created_at] => Tue May 10 20:02:46 +0000 2011
-                            [favourites_count] => 292
-                            [utc_offset] =>
-                            [time_zone] =>
-                            [geo_enabled] => 1
-                            [verified] => 1
-                            [statuses_count] => 431
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => FFFFFF
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/263000387/twitterbg_concept-1.jpg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/263000387/twitterbg_concept-1.jpg
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/2992077488/b12684acee62e20d1fa3402cf1e6b228_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/2992077488/b12684acee62e20d1fa3402cf1e6b228_normal.jpeg
-                            [profile_link_color] => 0084B4
-                            [profile_sidebar_border_color] => C1C6EB
-                            [profile_sidebar_fill_color] => FFFFFF
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 49
-                    [favorite_count] => 25
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 65
-                                                    [1] => 81
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/pxjbmYvYe7
-                                            [expanded_url] => http://www.google.com
-                                            [display_url] => google.com
-                                            [indices] => Array
-                                                (
-                                                    [0] => 83
-                                                    [1] => 105
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                            [media] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [id] => 398812291728429056
-                                            [id_str] => 398812291728429056
-                                            [indices] => Array
-                                                (
-                                                    [0] => 106
-                                                    [1] => 128
-                                                )
-
-                                            [media_url] => http://pbs.twimg.com/media/BYjdqpSIUAA7cb2.png
-                                            [media_url_https] => https://pbs.twimg.com/media/BYjdqpSIUAA7cb2.png
-                                            [url] => http://t.co/xDHllgrMnK
-                                            [display_url] => pic.twitter.com/xDHllgrMnK
-                                            [expanded_url] => http://twitter.com/GoogleDoodles/status/398812292034613248/photo/1
-                                            [type] => photo
-                                            [sizes] => stdClass Object
-                                                (
-                                                    [large] => stdClass Object
-                                                        (
-                                                            [w] => 1023
-                                                            [h] => 341
-                                                            [resize] => fit
-                                                        )
-
-                                                    [thumb] => stdClass Object
-                                                        (
-                                                            [w] => 150
-                                                            [h] => 150
-                                                            [resize] => crop
-                                                        )
-
-                                                    [medium] => stdClass Object
-                                                        (
-                                                            [w] => 600
-                                                            [h] => 199
-                                                            [resize] => fit
-                                                        )
-
-                                                    [small] => stdClass Object
-                                                        (
-                                                            [w] => 340
-                                                            [h] => 113
-                                                            [resize] => fit
-                                                        )
-
-                                                )
-
+                                            [0] => 103
+                                            [1] => 108
                                         )
 
                                 )
 
                         )
 
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
+                    [symbols] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [url] => http://t.co/IUAgpGQgPv
+                                    [expanded_url] => http://bit.ly/1iPk92t
+                                    [display_url] => bit.ly/1iPk92t
+                                    [indices] => Array
+                                        (
+                                            [0] => 80
+                                            [1] => 102
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [url] => http://t.co/jZDM57e4N7
+                                    [expanded_url] => http://fb.me/1Eavsy22x
+                                    [display_url] => fb.me/1Eavsy22x
+                                    [indices] => Array
+                                        (
+                                            [0] => 112
+                                            [1] => 134
+                                        )
+
+                                )
+
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
                 )
 
-            [2] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 13:39:22 +0000 2013
-                    [id] => 398806958251073537
-                    [id_str] => 398806958251073537
-                    [text] => I see the NSA using Google as a proxy to collect psychological &amp; perception data #RorschachDoodle http://t.co/vHlYEAAPPP
-                    [source] => web
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 3625171
-                            [id_str] => 3625171
-                            [name] => Dave Tufts
-                            [screen_name] => davetufts
-                            [location] => New England
-                            [description] => Captain of Industry
-                            [url] =>
-                            [entities] => stdClass Object
-                                (
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 295
-                            [friends_count] => 118
-                            [listed_count] => 19
-                            [created_at] => Fri Apr 06 14:43:40 +0000 2007
-                            [favourites_count] => 26
-                            [utc_offset] => -18000
-                            [time_zone] => Eastern Time (US & Canada)
-                            [geo_enabled] =>
-                            [verified] =>
-                            [statuses_count] => 3226
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 131516
-                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
-                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
-                            [profile_background_tile] => 1
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/1018076388/dave_square_normal.jpg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/1018076388/dave_square_normal.jpg
-                            [profile_link_color] => 005C99
-                            [profile_sidebar_border_color] => EEEEEE
-                            [profile_sidebar_fill_color] => EFEFEF
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 20
-                    [favorite_count] => 23
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 85
-                                                    [1] => 101
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/vHlYEAAPPP
-                                            [expanded_url] => http://www.google.com
-                                            [display_url] => google.com
-                                            [indices] => Array
-                                                (
-                                                    [0] => 102
-                                                    [1] => 124
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [3] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 12:37:25 +0000 2013
-                    [id] => 398791367582703616
-                    [id_str] => 398791367582703616
-                    [text] => This is my favorite #RorschachDoodle response http://t.co/Z63qqgE4B8 http://t.co/xx9UvAA6J7
-                    [source] => <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 14096763
-                            [id_str] => 14096763
-                            [name] => Joseph Weisenthal
-                            [screen_name] => TheStalwart
-                            [location] => iPhone: 40.715683,-73.994682
-                            [description] => I Am Joe Weisenthal, Executive Editor Of Business Insider
-                            [url] => http://t.co/bW6i29v5jj
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/bW6i29v5jj
-                                                            [expanded_url] => http://www.businessinsider.com
-                                                            [display_url] => businessinsider.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 53443
-                            [friends_count] => 2392
-                            [listed_count] => 2508
-                            [created_at] => Fri Mar 07 19:37:09 +0000 2008
-                            [favourites_count] => 185
-                            [utc_offset] => -21600
-                            [time_zone] => Central Time (US & Canada)
-                            [geo_enabled] =>
-                            [verified] =>
-                            [statuses_count] => 147577
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => C0DEED
-                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
-                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000711729473/0168dcbfbf65db09dd5e1122b53acbec_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000711729473/0168dcbfbf65db09dd5e1122b53acbec_normal.jpeg
-                            [profile_link_color] => 0084B4
-                            [profile_sidebar_border_color] => C0DEED
-                            [profile_sidebar_fill_color] => DDEEF6
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] => 1
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 14
-                    [favorite_count] => 6
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 20
-                                                    [1] => 36
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/Z63qqgE4B8
-                                            [expanded_url] => http://www.businessinsider.com/google-rorschach-test-2013-11
-                                            [display_url] => businessinsider.com/google-rorscha…
-                                            [indices] => Array
-                                                (
-                                                    [0] => 46
-                                                    [1] => 68
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                            [media] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [id] => 398791367482040320
-                                            [id_str] => 398791367482040320
-                                            [indices] => Array
-                                                (
-                                                    [0] => 69
-                                                    [1] => 91
-                                                )
-
-                                            [media_url] => http://pbs.twimg.com/media/BYjKosZCYAAhTMq.jpg
-                                            [media_url_https] => https://pbs.twimg.com/media/BYjKosZCYAAhTMq.jpg
-                                            [url] => http://t.co/xx9UvAA6J7
-                                            [display_url] => pic.twitter.com/xx9UvAA6J7
-                                            [expanded_url] => http://twitter.com/TheStalwart/status/398791367582703616/photo/1
-                                            [type] => photo
-                                            [sizes] => stdClass Object
-                                                (
-                                                    [medium] => stdClass Object
-                                                        (
-                                                            [w] => 600
-                                                            [h] => 467
-                                                            [resize] => fit
-                                                        )
-
-                                                    [thumb] => stdClass Object
-                                                        (
-                                                            [w] => 150
-                                                            [h] => 150
-                                                            [resize] => crop
-                                                        )
-
-                                                    [large] => stdClass Object
-                                                        (
-                                                            [w] => 796
-                                                            [h] => 620
-                                                            [resize] => fit
-                                                        )
-
-                                                    [small] => stdClass Object
-                                                        (
-                                                            [w] => 340
-                                                            [h] => 265
-                                                            [resize] => fit
-                                                        )
-
-                                                )
-
-                                        )
-
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [4] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 13:06:57 +0000 2013
-                    [id] => 398798797511225344
-                    [id_str] => 398798797511225344
-                    [text] => I see... T-Rex stomping on a beachball
-#RorschachDoodle http://t.co/YZTFCnhmUv
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 14162415
-                            [id_str] => 14162415
-                            [name] => Ryan North
-                            [screen_name] => ryanqnorth
-                            [location] => Toronto
-                            [description] => Diana went back to her people. Hal went to the stars.  But you, Ryan -- you, with your wild obsession.
-                            [url] => http://t.co/LeLyHcJk5Y
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/LeLyHcJk5Y
-                                                            [expanded_url] => http://about.me/ryanqnorth
-                                                            [display_url] => about.me/ryanqnorth
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 37140
-                            [friends_count] => 291
-                            [listed_count] => 1882
-                            [created_at] => Mon Mar 17 10:41:31 +0000 2008
-                            [favourites_count] => 12769
-                            [utc_offset] => -18000
-                            [time_zone] => Quito
-                            [geo_enabled] => 1
-                            [verified] =>
-                            [statuses_count] => 33130
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 4C8BD9
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/135751776/meandvictor2.jpg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/135751776/meandvictor2.jpg
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000678717813/1a2a58cf8c700bd17645cd6b837c57be_normal.png
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000678717813/1a2a58cf8c700bd17645cd6b837c57be_normal.png
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/14162415/1348247625
-                            [profile_link_color] => 0000FF
-                            [profile_sidebar_border_color] => 000000
-                            [profile_sidebar_fill_color] => FFFFFF
-                            [profile_text_color] => 000000
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 10
-                    [favorite_count] => 18
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 39
-                                                    [1] => 55
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/YZTFCnhmUv
-                                            [expanded_url] => http://g.co/doodle/ekyjhp
-                                            [display_url] => g.co/doodle/ekyjhp
-                                            [indices] => Array
-                                                (
-                                                    [0] => 56
-                                                    [1] => 78
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [5] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 07:26:47 +0000 2013
-                    [id] => 398713190634094592
-                    [id_str] => 398713190634094592
-                    [text] => Hermann Rorschach Google Doodle: http://t.co/A7vSBZYxBe  psychological test  on Google home page itself #google #RorschachDoodle
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 68396281
-                            [id_str] => 68396281
-                            [name] => Tamil News
-                            [screen_name] => TamilTechNews
-                            [location] =>
-                            [description] => Get Latest News in Tamil .
-                            [url] => http://t.co/viyK64v1G5
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/viyK64v1G5
-                                                            [expanded_url] => http://www.qualitypoint.blogspot.com/
-                                                            [display_url] => qualitypoint.blogspot.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 5838
-                            [friends_count] => 1875
-                            [listed_count] => 50
-                            [created_at] => Mon Aug 24 12:32:59 +0000 2009
-                            [favourites_count] => 24
-                            [utc_offset] => 19800
-                            [time_zone] => New Delhi
-                            [geo_enabled] =>
-                            [verified] =>
-                            [statuses_count] => 28212
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 0099B9
-                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme4/bg.gif
-                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme4/bg.gif
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/379183656/tamil_logo_normal.gif
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/379183656/tamil_logo_normal.gif
-                            [profile_link_color] => 0099B9
-                            [profile_sidebar_border_color] => 5ED4DC
-                            [profile_sidebar_fill_color] => 95E8EC
-                            [profile_text_color] => 3C3940
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 16
-                    [favorite_count] => 9
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => google
-                                            [indices] => Array
-                                                (
-                                                    [0] => 104
-                                                    [1] => 111
-                                                )
-
-                                        )
-
-                                    [1] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 112
-                                                    [1] => 128
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/A7vSBZYxBe
-                                            [expanded_url] => http://youtu.be/xp2P9LPXfbY
-                                            [display_url] => youtu.be/xp2P9LPXfbY
-                                            [indices] => Array
-                                                (
-                                                    [0] => 33
-                                                    [1] => 55
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [6] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 13:41:16 +0000 2013
-                    [id] => 398807432702349313
-                    [id_str] => 398807432702349313
-                    [text] => I see a President who lied to the American People. #RorschachDoodle #tcot http://t.co/LSJVwhBjGi
-                    [source] => web
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 369249722
-                            [id_str] => 369249722
-                            [name] => The Morning Spew
-                            [screen_name] => TheMorningSpew
-                            [location] => Omnipresent
-                            [description] => Politics, Satire & Spew
-                            [url] => http://t.co/FbKPtq4wpS
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/FbKPtq4wpS
-                                                            [expanded_url] => http://www.TheMorningSpew.com
-                                                            [display_url] => TheMorningSpew.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 6993
-                            [friends_count] => 5085
-                            [listed_count] => 203
-                            [created_at] => Wed Sep 07 01:21:50 +0000 2011
-                            [favourites_count] => 5356
-                            [utc_offset] =>
-                            [time_zone] =>
-                            [geo_enabled] =>
-                            [verified] =>
-                            [statuses_count] => 74508
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => B2DFDA
-                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme13/bg.gif
-                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme13/bg.gif
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000462045788/8f13c02046f9d3015be2c82e88e8673f_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000462045788/8f13c02046f9d3015be2c82e88e8673f_normal.jpeg
-                            [profile_link_color] => 93A644
-                            [profile_sidebar_border_color] => EEEEEE
-                            [profile_sidebar_fill_color] => FFFFFF
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 13
-                    [favorite_count] => 13
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 51
-                                                    [1] => 67
-                                                )
-
-                                        )
-
-                                    [1] => stdClass Object
-                                        (
-                                            [text] => tcot
-                                            [indices] => Array
-                                                (
-                                                    [0] => 68
-                                                    [1] => 73
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                            [media] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [id] => 398807432710737920
-                                            [id_str] => 398807432710737920
-                                            [indices] => Array
-                                                (
-                                                    [0] => 74
-                                                    [1] => 96
-                                                )
-
-                                            [media_url] => http://pbs.twimg.com/media/BYjZP0CCUAAIITm.jpg
-                                            [media_url_https] => https://pbs.twimg.com/media/BYjZP0CCUAAIITm.jpg
-                                            [url] => http://t.co/LSJVwhBjGi
-                                            [display_url] => pic.twitter.com/LSJVwhBjGi
-                                            [expanded_url] => http://twitter.com/TheMorningSpew/status/398807432702349313/photo/1
-                                            [type] => photo
-                                            [sizes] => stdClass Object
-                                                (
-                                                    [large] => stdClass Object
-                                                        (
-                                                            [w] => 490
-                                                            [h] => 322
-                                                            [resize] => fit
-                                                        )
-
-                                                    [thumb] => stdClass Object
-                                                        (
-                                                            [w] => 150
-                                                            [h] => 150
-                                                            [resize] => crop
-                                                        )
-
-                                                    [small] => stdClass Object
-                                                        (
-                                                            [w] => 340
-                                                            [h] => 223
-                                                            [resize] => fit
-                                                        )
-
-                                                    [medium] => stdClass Object
-                                                        (
-                                                            [w] => 490
-                                                            [h] => 322
-                                                            [resize] => fit
-                                                        )
-
-                                                )
-
-                                        )
-
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [7] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 15:33:40 +0000 2013
-                    [id] => 398835719637958656
-                    [id_str] => 398835719637958656
-                    [text] => I see...a long and winding road to a odd shaped moon surrounded by clouds...#RorschachDoodle http://t.co/B3v7ukCsR3
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 716447274
-                            [id_str] => 716447274
-                            [name] => Melissa Ponzio
-                            [screen_name] => MelissaPonzio1
-                            [location] =>
-                            [description] => Proud Mother to a Teen Wolf, Woodbury Survivor with a short Prison stay, Former Army Wife...my parents often wonder where I am...
-
-http://t.co/ZE6uzzP4fT
-                            [url] => http://t.co/CslEAmS0r2
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/CslEAmS0r2
-                                                            [expanded_url] => http://melissaponzio.com
-                                                            [display_url] => melissaponzio.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/ZE6uzzP4fT
-                                                            [expanded_url] => http://www.imdb.com/name/nm0690754/
-                                                            [display_url] => imdb.com/name/nm0690754/
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 133
-                                                                    [1] => 155
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 71099
-                            [friends_count] => 2655
-                            [listed_count] => 696
-                            [created_at] => Wed Jul 25 17:33:43 +0000 2012
-                            [favourites_count] => 22
-                            [utc_offset] => -18000
-                            [time_zone] => Eastern Time (US & Canada)
-                            [geo_enabled] =>
-                            [verified] => 1
-                            [statuses_count] => 6703
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => C0DEED
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/691667079/4db15fdddbe3ebec6e3c50871e7842d3.jpeg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/691667079/4db15fdddbe3ebec6e3c50871e7842d3.jpeg
-                            [profile_background_tile] => 1
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000627027327/dc528f4e78eff56929cfc9765dd93064_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000627027327/dc528f4e78eff56929cfc9765dd93064_normal.jpeg
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/716447274/1382331949
-                            [profile_link_color] => D60D1D
-                            [profile_sidebar_border_color] => FFFFFF
-                            [profile_sidebar_fill_color] => DDEEF6
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 5
-                    [favorite_count] => 8
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 76
-                                                    [1] => 92
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/B3v7ukCsR3
-                                            [expanded_url] => http://g.co/doodle/h3qbv7
-                                            [display_url] => g.co/doodle/h3qbv7
-                                            [indices] => Array
-                                                (
-                                                    [0] => 93
-                                                    [1] => 115
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [8] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 12:24:13 +0000 2013
-                    [id] => 398788044028772352
-                    [id_str] => 398788044028772352
-                    [text] => What do you see in Google's #RorschachDoodle? http://t.co/s3hDoESdMG
-                    [source] => <a href="http://dlvr.it" rel="nofollow">dlvr.it</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 25067168
-                            [id_str] => 25067168
-                            [name] => euronews
-                            [screen_name] => euronews
-                            [location] => Europe
-                            [description] => @euronews is the leading international news channel covering world news from a European perspective.
-                            [url] => http://t.co/fU3rhC8wsy
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/fU3rhC8wsy
-                                                            [expanded_url] => http://www.euronews.com/
-                                                            [display_url] => euronews.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 79413
-                            [friends_count] => 244
-                            [listed_count] => 2878
-                            [created_at] => Wed Mar 18 12:57:11 +0000 2009
-                            [favourites_count] => 10
-                            [utc_offset] => 3600
-                            [time_zone] => Paris
-                            [geo_enabled] =>
-                            [verified] => 1
-                            [statuses_count] => 31695
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 626262
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/668986610/3433bc52b2bf0c48f79dc90ca0ed06b2.png
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/668986610/3433bc52b2bf0c48f79dc90ca0ed06b2.png
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/2498441414/9n43nc5ln3l7jd70s20t_normal.png
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/2498441414/9n43nc5ln3l7jd70s20t_normal.png
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/25067168/1357202351
-                            [profile_link_color] => 0084B4
-                            [profile_sidebar_border_color] => FFFFFF
-                            [profile_sidebar_fill_color] => E8E8E8
-                            [profile_text_color] => 757175
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 7
-                    [favorite_count] => 3
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 28
-                                                    [1] => 44
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/s3hDoESdMG
-                                            [expanded_url] => http://eurone.ws/1d38741
-                                            [display_url] => eurone.ws/1d38741
-                                            [indices] => Array
-                                                (
-                                                    [0] => 46
-                                                    [1] => 68
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [9] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 15:10:51 +0000 2013
-                    [id] => 398829977853894656
-                    [id_str] => 398829977853894656
-                    [text] => I see...  Batman  #RorschachDoodle http://t.co/gW5HHO14uF
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 418
-                            [id_str] => 418
-                            [name] => Dennis Crowley
-                            [screen_name] => dens
-                            [location] => nyc
-                            [description] => I like snowboards, foursquare and unemployment.
-                            [url] => http://t.co/DfSa4IQHzZ
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/DfSa4IQHzZ
-                                                            [expanded_url] => http://www.denniscrowley.com
-                                                            [display_url] => denniscrowley.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 70928
-                            [friends_count] => 1054
-                            [listed_count] => 3841
-                            [created_at] => Wed Jul 05 19:52:46 +0000 2006
-                            [favourites_count] => 1008
-                            [utc_offset] => -18000
-                            [time_zone] => Eastern Time (US & Canada)
-                            [geo_enabled] => 1
-                            [verified] => 1
-                            [statuses_count] => 36174
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => FFFFFF
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/37747126/kittens.jpg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/37747126/kittens.jpg
-                            [profile_background_tile] => 1
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/3180393492/9236f9d84c75e755a98de9d67f8d1460_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/3180393492/9236f9d84c75e755a98de9d67f8d1460_normal.jpeg
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/418/1348000781
-                            [profile_link_color] => 0000FF
-                            [profile_sidebar_border_color] => 87BC44
-                            [profile_sidebar_fill_color] => E0FF92
-                            [profile_text_color] => 000000
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 6
-                    [favorite_count] => 2
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 18
-                                                    [1] => 34
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/gW5HHO14uF
-                                            [expanded_url] => http://g.co/doodle/ac5hgh
-                                            [display_url] => g.co/doodle/ac5hgh
-                                            [indices] => Array
-                                                (
-                                                    [0] => 35
-                                                    [1] => 57
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [10] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => popular
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 07:36:14 +0000 2013
-                    [id] => 398715570855477248
-                    [id_str] => 398715570855477248
-                    [text] => I see... #RorschachDoodle goatse?! http://t.co/ytWvSekfzh http://t.co/CMVJwOGhVw
-                    [source] => web
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 756278
-                            [id_str] => 756278
-                            [name] => Chris Pirillo
-                            [screen_name] => ChrisPirillo
-                            [location] => Seattle, WA
-                            [description] => Geek Culture Cultivator & Lifestyle Enabler. Educator, Entertainer, Entrepreneur. Expert in being myself.
-
-http://t.co/mCmmX2qxSO / chris@pirillo.com
-                            [url] => http://t.co/0bwdQvQxwz
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/0bwdQvQxwz
-                                                            [expanded_url] => http://chris.pirillo.com/
-                                                            [display_url] => chris.pirillo.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/mCmmX2qxSO
-                                                            [expanded_url] => http://youtube.com/lockergnome
-                                                            [display_url] => youtube.com/lockergnome
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 109
-                                                                    [1] => 131
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 132816
-                            [friends_count] => 1983
-                            [listed_count] => 9381
-                            [created_at] => Wed Feb 07 20:01:06 +0000 2007
-                            [favourites_count] => 174
-                            [utc_offset] => -28800
-                            [time_zone] => Pacific Time (US & Canada)
-                            [geo_enabled] => 1
-                            [verified] => 1
-                            [statuses_count] => 69464
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => FFFFFF
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/161921420/ignoreme.png
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/161921420/ignoreme.png
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/2611249528/h6jnw0fi4him8qfhdxby_normal.png
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/2611249528/h6jnw0fi4him8qfhdxby_normal.png
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/756278/1350179095
-                            [profile_link_color] => 0000FF
-                            [profile_sidebar_border_color] => FFFFFF
-                            [profile_sidebar_fill_color] => EFEFEF
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] =>
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 6
-                    [favorite_count] => 4
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 9
-                                                    [1] => 25
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/ytWvSekfzh
-                                            [expanded_url] => http://g.co/doodle/7umnyz
-                                            [display_url] => g.co/doodle/7umnyz
-                                            [indices] => Array
-                                                (
-                                                    [0] => 35
-                                                    [1] => 57
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                            [media] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [id] => 398715570859671552
-                                            [id_str] => 398715570859671552
-                                            [indices] => Array
-                                                (
-                                                    [0] => 58
-                                                    [1] => 80
-                                                )
-
-                                            [media_url] => http://pbs.twimg.com/media/BYiFsv-CAAALPW2.png
-                                            [media_url_https] => https://pbs.twimg.com/media/BYiFsv-CAAALPW2.png
-                                            [url] => http://t.co/CMVJwOGhVw
-                                            [display_url] => pic.twitter.com/CMVJwOGhVw
-                                            [expanded_url] => http://twitter.com/ChrisPirillo/status/398715570855477248/photo/1
-                                            [type] => photo
-                                            [sizes] => stdClass Object
-                                                (
-                                                    [large] => stdClass Object
-                                                        (
-                                                            [w] => 582
-                                                            [h] => 233
-                                                            [resize] => fit
-                                                        )
-
-                                                    [thumb] => stdClass Object
-                                                        (
-                                                            [w] => 150
-                                                            [h] => 150
-                                                            [resize] => crop
-                                                        )
-
-                                                    [small] => stdClass Object
-                                                        (
-                                                            [w] => 340
-                                                            [h] => 136
-                                                            [resize] => fit
-                                                        )
-
-                                                    [medium] => stdClass Object
-                                                        (
-                                                            [w] => 582
-                                                            [h] => 233
-                                                            [resize] => fit
-                                                        )
-
-                                                )
-
-                                        )
-
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [11] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => recent
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 15:49:25 +0000 2013
-                    [id] => 398839683930537984
-                    [id_str] => 398839683930537984
-                    [text] => I see...
-#RorschachDoodle http://t.co/nwOpyDGx6B
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 787336706
-                            [id_str] => 787336706
-                            [name] => Ms. DeSimone
-                            [screen_name] => msdesimone
-                            [location] =>
-                            [description] => Teacher, Mentor, Student, Sister and Friend.
-                            [url] => http://t.co/WUypiA4EjL
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/WUypiA4EjL
-                                                            [expanded_url] => http://www.marylandafcs.org
-                                                            [display_url] => marylandafcs.org
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 23
-                            [friends_count] => 86
-                            [listed_count] => 0
-                            [created_at] => Tue Aug 28 16:16:31 +0000 2012
-                            [favourites_count] => 4
-                            [utc_offset] =>
-                            [time_zone] =>
-                            [geo_enabled] =>
-                            [verified] =>
-                            [statuses_count] => 35
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => C0DEED
-                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
-                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000638889236/ca248e08051e4f5aed9c1b8e8621ade4_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000638889236/ca248e08051e4f5aed9c1b8e8621ade4_normal.jpeg
-                            [profile_link_color] => 0084B4
-                            [profile_sidebar_border_color] => C0DEED
-                            [profile_sidebar_fill_color] => DDEEF6
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] => 1
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 0
-                    [favorite_count] => 0
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 9
-                                                    [1] => 25
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/nwOpyDGx6B
-                                            [expanded_url] => http://g.co/doodle/cqfxct
-                                            [display_url] => g.co/doodle/cqfxct
-                                            [indices] => Array
-                                                (
-                                                    [0] => 26
-                                                    [1] => 48
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [12] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => recent
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 15:49:23 +0000 2013
-                    [id] => 398839676376604672
-                    [id_str] => 398839676376604672
-                    [text] => I see...
-#RorschachDoodle //g.co/doodle/gpv2gz
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 117336024
-                            [id_str] => 117336024
-                            [name] => RM Fajar M. Dewanto
-                            [screen_name] => rmfajar
-                            [location] => Indonesia
-                            [description] => Final Fighter ! Read, Write and Do !
-                            [url] => http://t.co/i3hAMpZvzl
-                            [entities] => stdClass Object
-                                (
-                                    [url] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                    [0] => stdClass Object
-                                                        (
-                                                            [url] => http://t.co/i3hAMpZvzl
-                                                            [expanded_url] => http://www.fajardewanto.com
-                                                            [display_url] => fajardewanto.com
-                                                            [indices] => Array
-                                                                (
-                                                                    [0] => 0
-                                                                    [1] => 22
-                                                                )
-
-                                                        )
-
-                                                )
-
-                                        )
-
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 480
-                            [friends_count] => 450
-                            [listed_count] => 3
-                            [created_at] => Thu Feb 25 07:33:49 +0000 2010
-                            [favourites_count] => 78
-                            [utc_offset] => 25200
-                            [time_zone] => Jakarta
-                            [geo_enabled] =>
-                            [verified] =>
-                            [statuses_count] => 32564
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => FFFFFF
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000027490921/5f1b074a476f17d191a1c7651e46ccc9.jpeg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000027490921/5f1b074a476f17d191a1c7651e46ccc9.jpeg
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000680902493/4e6603dc4bb939d535e279aefab3244e_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000680902493/4e6603dc4bb939d535e279aefab3244e_normal.jpeg
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/117336024/1378297885
-                            [profile_link_color] => A61C1C
-                            [profile_sidebar_border_color] => FFFFFF
-                            [profile_sidebar_fill_color] => EADEAA
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 0
-                    [favorite_count] => 0
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 9
-                                                    [1] => 25
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [lang] => en
-                )
-
-            [13] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => recent
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 15:49:23 +0000 2013
-                    [id] => 398839675256705024
-                    [id_str] => 398839675256705024
-                    [text] => I see...dragons perched on the sides of a valley
-#RorschachDoodle http://t.co/L1pK92YgKG
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 37357064
-                            [id_str] => 37357064
-                            [name] => Joseph Littlepage
-                            [screen_name] => JL_SnOrLaX
-                            [location] => Murray, Kentucky
-                            [description] => Still trying to cope with the fact that the cake is a lie.
-                            [url] =>
-                            [entities] => stdClass Object
-                                (
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 39
-                            [friends_count] => 198
-                            [listed_count] => 1
-                            [created_at] => Sun May 03 03:45:55 +0000 2009
-                            [favourites_count] => 79
-                            [utc_offset] => -21600
-                            [time_zone] => Central Time (US & Canada)
-                            [geo_enabled] => 1
-                            [verified] =>
-                            [statuses_count] => 1497
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 8B542B
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/16733198/Snorlax.jpg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/16733198/Snorlax.jpg
-                            [profile_background_tile] => 1
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000507831562/87e0edd4c8aef38549c0a52309dd9587_normal.png
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000507831562/87e0edd4c8aef38549c0a52309dd9587_normal.png
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/37357064/1382733591
-                            [profile_link_color] => 9D582E
-                            [profile_sidebar_border_color] => D9B17E
-                            [profile_sidebar_fill_color] => EADEAA
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 0
-                    [favorite_count] => 0
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 49
-                                                    [1] => 65
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/L1pK92YgKG
-                                            [expanded_url] => http://g.co/doodle/k6nkrj
-                                            [display_url] => g.co/doodle/k6nkrj
-                                            [indices] => Array
-                                                (
-                                                    [0] => 66
-                                                    [1] => 88
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [14] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => recent
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 15:49:22 +0000 2013
-                    [id] => 398839672505266176
-                    [id_str] => 398839672505266176
-                    [text] => I see... a butterfly.
-#RorschachDoodle http://t.co/tBVWsgHclK
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 469734308
-                            [id_str] => 469734308
-                            [name] => Tarun Bommakanti
-                            [screen_name] => tarunb1999
-                            [location] => West Windsor, NJ
-                            [description] => I happen to be a boss...and an Apple fanboy.
-                            [url] =>
-                            [entities] => stdClass Object
-                                (
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 35
-                            [friends_count] => 77
-                            [listed_count] => 0
-                            [created_at] => Fri Jan 20 22:49:05 +0000 2012
-                            [favourites_count] => 10
-                            [utc_offset] =>
-                            [time_zone] =>
-                            [geo_enabled] => 1
-                            [verified] =>
-                            [statuses_count] => 192
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 022330
-                            [profile_background_image_url] => http://abs.twimg.com/images/themes/theme15/bg.png
-                            [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme15/bg.png
-                            [profile_background_tile] =>
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/378800000461514133/951189c568fecb1728bd8c8086e0cbc4_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000461514133/951189c568fecb1728bd8c8086e0cbc4_normal.jpeg
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/469734308/1379186488
-                            [profile_link_color] => 0084B4
-                            [profile_sidebar_border_color] => A8C7F7
-                            [profile_sidebar_fill_color] => C0DFEC
-                            [profile_text_color] => 333333
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 0
-                    [favorite_count] => 0
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 22
-                                                    [1] => 38
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/tBVWsgHclK
-                                            [expanded_url] => http://g.co/doodle/jy3tss
-                                            [display_url] => g.co/doodle/jy3tss
-                                            [indices] => Array
-                                                (
-                                                    [0] => 39
-                                                    [1] => 61
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
-            [15] => stdClass Object
-                (
-                    [metadata] => stdClass Object
-                        (
-                            [result_type] => recent
-                            [iso_language_code] => en
-                        )
-
-                    [created_at] => Fri Nov 08 15:49:20 +0000 2013
-                    [id] => 398839661826560000
-                    [id_str] => 398839661826560000
-                    [text] => I see...unicorns over a bringe
-#RorschachDoodle http://t.co/2h8PhGYpxM
-                    [source] => <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
-                    [truncated] =>
-                    [in_reply_to_status_id] =>
-                    [in_reply_to_status_id_str] =>
-                    [in_reply_to_user_id] =>
-                    [in_reply_to_user_id_str] =>
-                    [in_reply_to_screen_name] =>
-                    [user] => stdClass Object
-                        (
-                            [id] => 47086877
-                            [id_str] => 47086877
-                            [name] => Yhamil
-                            [screen_name] => yhamil
-                            [location] => puerto rico
-                            [description] => culé 100%, cristiano 1000% ..... Padre de 2 hermosas niñas y esposo de la mujer mas bella
-                            [url] =>
-                            [entities] => stdClass Object
-                                (
-                                    [description] => stdClass Object
-                                        (
-                                            [urls] => Array
-                                                (
-                                                )
-
-                                        )
-
-                                )
-
-                            [protected] =>
-                            [followers_count] => 65
-                            [friends_count] => 159
-                            [listed_count] => 1
-                            [created_at] => Sun Jun 14 12:56:26 +0000 2009
-                            [favourites_count] => 23
-                            [utc_offset] => -18000
-                            [time_zone] => Quito
-                            [geo_enabled] => 1
-                            [verified] =>
-                            [statuses_count] => 1348
-                            [lang] => en
-                            [contributors_enabled] =>
-                            [is_translator] =>
-                            [profile_background_color] => 000000
-                            [profile_background_image_url] => http://a0.twimg.com/profile_background_images/71348091/200819095027-9835.jpg
-                            [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/71348091/200819095027-9835.jpg
-                            [profile_background_tile] => 1
-                            [profile_image_url] => http://pbs.twimg.com/profile_images/2629873178/03c969606aba3310691215adcc0159b9_normal.jpeg
-                            [profile_image_url_https] => https://pbs.twimg.com/profile_images/2629873178/03c969606aba3310691215adcc0159b9_normal.jpeg
-                            [profile_banner_url] => https://pbs.twimg.com/profile_banners/47086877/1348140171
-                            [profile_link_color] => 3A6EE8
-                            [profile_sidebar_border_color] => 737273
-                            [profile_sidebar_fill_color] => 171717
-                            [profile_text_color] => 666666
-                            [profile_use_background_image] => 1
-                            [default_profile] =>
-                            [default_profile_image] =>
-                            [following] =>
-                            [follow_request_sent] =>
-                            [notifications] =>
-                        )
-
-                    [geo] =>
-                    [coordinates] =>
-                    [place] =>
-                    [contributors] =>
-                    [retweet_count] => 0
-                    [favorite_count] => 0
-                    [entities] => stdClass Object
-                        (
-                            [hashtags] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [text] => RorschachDoodle
-                                            [indices] => Array
-                                                (
-                                                    [0] => 31
-                                                    [1] => 47
-                                                )
-
-                                        )
-
-                                )
-
-                            [symbols] => Array
-                                (
-                                )
-
-                            [urls] => Array
-                                (
-                                    [0] => stdClass Object
-                                        (
-                                            [url] => http://t.co/2h8PhGYpxM
-                                            [expanded_url] => http://g.co/doodle/thzfw5
-                                            [display_url] => g.co/doodle/thzfw5
-                                            [indices] => Array
-                                                (
-                                                    [0] => 48
-                                                    [1] => 70
-                                                )
-
-                                        )
-
-                                )
-
-                            [user_mentions] => Array
-                                (
-                                )
-
-                        )
-
-                    [favorited] =>
-                    [retweeted] =>
-                    [possibly_sensitive] =>
-                    [lang] => en
-                )
-
+            [favorited] =>
+            [retweeted] =>
+            [possibly_sensitive] =>
+            [lang] => en
         )
 
-    [search_metadata] => stdClass Object
+    [1] => stdClass Object
         (
-            [completed_in] => 0.041
-            [max_id] => 398839683930537984
-            [max_id_str] => 398839683930537984
-            [next_results] => ?max_id=398713190634094591&q=%23RorschachDoodle&lang=en&count=5&include_entities=1&result_type=mixed
-            [query] => %23RorschachDoodle
-            [refresh_url] => ?since_id=398839683930537984&q=%23RorschachDoodle&lang=en&result_type=mixed&include_entities=1
-            [count] => 5
-            [since_id] => 0
-            [since_id_str] => 0
+            [created_at] => Wed Nov 06 20:43:16 +0000 2013
+            [id] => 398188857172041729
+            [id_str] => 398188857172041729
+            [text] => Couldn't agree more! RT @PRResearch: How social data is starting to disrupt market research: http://t.co/dg2PWhbVvr @W2OGroup @WCGWorld
+            [source] => <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a>
+            [truncated] =>
+            [in_reply_to_status_id] =>
+            [in_reply_to_status_id_str] =>
+            [in_reply_to_user_id] =>
+            [in_reply_to_user_id_str] =>
+            [in_reply_to_screen_name] =>
+            [user] => stdClass Object
+                (
+                    [id] => 19257576
+                    [id_str] => 19257576
+                    [name] => Mattr
+                    [screen_name] => Mattr_co
+                    [location] => San Francisco, CA
+                    [description] => Personalities Tell Powerful Stories. Mattr leads a new era for consumer insights, providing brands with a deeper, more colorful view into their social audience.
+                    [url] => http://t.co/3kRlR215rS
+                    [entities] => stdClass Object
+                        (
+                            [url] => stdClass Object
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [url] => http://t.co/3kRlR215rS
+                                                    [expanded_url] => http://www.mattr.co
+                                                    [display_url] => mattr.co
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 22
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => stdClass Object
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] =>
+                    [followers_count] => 1039
+                    [friends_count] => 2002
+                    [listed_count] => 29
+                    [created_at] => Tue Jan 20 21:09:24 +0000 2009
+                    [favourites_count] => 42
+                    [utc_offset] => -21600
+                    [time_zone] => Central Time (US & Canada)
+                    [geo_enabled] =>
+                    [verified] =>
+                    [statuses_count] => 1789
+                    [lang] => en
+                    [contributors_enabled] =>
+                    [is_translator] =>
+                    [profile_background_color] => E8E8E8
+                    [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000075802109/7a8ad764775cede72da1bf7b32efc95c.png
+                    [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000075802109/7a8ad764775cede72da1bf7b32efc95c.png
+                    [profile_background_tile] =>
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/19257576/1379345751
+                    [profile_link_color] => F50079
+                    [profile_sidebar_border_color] => 000000
+                    [profile_sidebar_fill_color] => EADEAA
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [default_profile] =>
+                    [default_profile_image] =>
+                    [following] =>
+                    [follow_request_sent] =>
+                    [notifications] =>
+                )
+
+            [geo] =>
+            [coordinates] =>
+            [place] =>
+            [contributors] =>
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => stdClass Object
+                (
+                    [hashtags] => Array
+                        (
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [url] => http://t.co/dg2PWhbVvr
+                                    [expanded_url] => http://w.cg/1ahZChD
+                                    [display_url] => w.cg/1ahZChD
+                                    [indices] => Array
+                                        (
+                                            [0] => 93
+                                            [1] => 115
+                                        )
+
+                                )
+
+                        )
+
+                    [user_mentions] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [screen_name] => PRResearch
+                                    [name] => Seth Duncan
+                                    [id] => 31287313
+                                    [id_str] => 31287313
+                                    [indices] => Array
+                                        (
+                                            [0] => 24
+                                            [1] => 35
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [screen_name] => W2OGroup
+                                    [name] => W2OGroup
+                                    [id] => 518205960
+                                    [id_str] => 518205960
+                                    [indices] => Array
+                                        (
+                                            [0] => 116
+                                            [1] => 125
+                                        )
+
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [screen_name] => WCGWorld
+                                    [name] => WCG
+                                    [id] => 48542530
+                                    [id_str] => 48542530
+                                    [indices] => Array
+                                        (
+                                            [0] => 126
+                                            [1] => 135
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [favorited] =>
+            [retweeted] =>
+            [possibly_sensitive] =>
+            [lang] => en
+        )
+
+    [2] => stdClass Object
+        (
+            [created_at] => Mon Nov 04 17:04:57 +0000 2013
+            [id] => 397409143473971200
+            [id_str] => 397409143473971200
+            [text] => 'Approachable Genius'- keep it simple and you'll appear more authentic http://t.co/L3RepWp342 #entrepreneurs... http://t.co/CwPsOr0GYi
+            [source] => <a href="http://www.facebook.com/twitter" rel="nofollow">Facebook</a>
+            [truncated] =>
+            [in_reply_to_status_id] =>
+            [in_reply_to_status_id_str] =>
+            [in_reply_to_user_id] =>
+            [in_reply_to_user_id_str] =>
+            [in_reply_to_screen_name] =>
+            [user] => stdClass Object
+                (
+                    [id] => 19257576
+                    [id_str] => 19257576
+                    [name] => Mattr
+                    [screen_name] => Mattr_co
+                    [location] => San Francisco, CA
+                    [description] => Personalities Tell Powerful Stories. Mattr leads a new era for consumer insights, providing brands with a deeper, more colorful view into their social audience.
+                    [url] => http://t.co/3kRlR215rS
+                    [entities] => stdClass Object
+                        (
+                            [url] => stdClass Object
+                                (
+                                    [urls] => Array
+                                        (
+                                            [0] => stdClass Object
+                                                (
+                                                    [url] => http://t.co/3kRlR215rS
+                                                    [expanded_url] => http://www.mattr.co
+                                                    [display_url] => mattr.co
+                                                    [indices] => Array
+                                                        (
+                                                            [0] => 0
+                                                            [1] => 22
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [description] => stdClass Object
+                                (
+                                    [urls] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [protected] =>
+                    [followers_count] => 1039
+                    [friends_count] => 2002
+                    [listed_count] => 29
+                    [created_at] => Tue Jan 20 21:09:24 +0000 2009
+                    [favourites_count] => 42
+                    [utc_offset] => -21600
+                    [time_zone] => Central Time (US & Canada)
+                    [geo_enabled] =>
+                    [verified] =>
+                    [statuses_count] => 1789
+                    [lang] => en
+                    [contributors_enabled] =>
+                    [is_translator] =>
+                    [profile_background_color] => E8E8E8
+                    [profile_background_image_url] => http://a0.twimg.com/profile_background_images/378800000075802109/7a8ad764775cede72da1bf7b32efc95c.png
+                    [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/378800000075802109/7a8ad764775cede72da1bf7b32efc95c.png
+                    [profile_background_tile] =>
+                    [profile_image_url] => http://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png
+                    [profile_image_url_https] => https://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png
+                    [profile_banner_url] => https://pbs.twimg.com/profile_banners/19257576/1379345751
+                    [profile_link_color] => F50079
+                    [profile_sidebar_border_color] => 000000
+                    [profile_sidebar_fill_color] => EADEAA
+                    [profile_text_color] => 333333
+                    [profile_use_background_image] => 1
+                    [default_profile] =>
+                    [default_profile_image] =>
+                    [following] =>
+                    [follow_request_sent] =>
+                    [notifications] =>
+                )
+
+            [geo] =>
+            [coordinates] =>
+            [place] =>
+            [contributors] =>
+            [retweet_count] => 0
+            [favorite_count] => 0
+            [entities] => stdClass Object
+                (
+                    [hashtags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [text] => entrepreneurs
+                                    [indices] => Array
+                                        (
+                                            [0] => 94
+                                            [1] => 108
+                                        )
+
+                                )
+
+                        )
+
+                    [symbols] => Array
+                        (
+                        )
+
+                    [urls] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [url] => http://t.co/L3RepWp342
+                                    [expanded_url] => http://po.st/tJHp2f
+                                    [display_url] => po.st/tJHp2f
+                                    [indices] => Array
+                                        (
+                                            [0] => 71
+                                            [1] => 93
+                                        )
+
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [url] => http://t.co/CwPsOr0GYi
+                                    [expanded_url] => http://fb.me/2D9DDvHj1
+                                    [display_url] => fb.me/2D9DDvHj1
+                                    [indices] => Array
+                                        (
+                                            [0] => 112
+                                            [1] => 134
+                                        )
+
+                                )
+
+                        )
+
+                    [user_mentions] => Array
+                        (
+                        )
+
+                )
+
+            [favorited] =>
+            [retweeted] =>
+            [possibly_sensitive] =>
+            [lang] => en
         )
 
 )
+                    <div>
+                        <img src="http://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png" alt="" />
+                            <div>
+                                Mattr                                <a href="http://twitter.com/Mattr_co">@Mattr_co</a>
+                                <span>1D </span>
+                                <p>Silverton Partners looking to invest $75M in 25 early-stage ATX startups, nice! <a href="http://t.co/IUAgpGQgPv" target="_blank">http://t.co/IUAgpGQgPv</a> <a href="http://search.twitter.com/search?q=%23tech" target="_blank">#tech</a>... <a href="http://t.co/jZDM57e4N7" target="_blank">http://t.co/jZDM57e4N7</a></p>
+                            </div>
+                        </img>
+                    </div>
+
+                                <div>
+                        <img src="http://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png" alt="" />
+                            <div>
+                                Mattr                                <a href="http://twitter.com/Mattr_co">@Mattr_co</a>
+                                <span>1D </span>
+                                <p>Couldn't agree more! RT <a href="http://www.twitter.com/PRResearch" target="_blank">@PRResearch</a>: How social data is starting to disrupt market research: <a href="http://t.co/dg2PWhbVvr" target="_blank">http://t.co/dg2PWhbVvr</a> <a href="http://www.twitter.com/W2OGroup" target="_blank">@W2OGroup</a> <a href="http://www.twitter.com/WCGWorld" target="_blank">@WCGWorld</a></p>
+                            </div>
+                        </img>
+                    </div>
+
+                                <div>
+                        <img src="http://pbs.twimg.com/profile_images/378800000469303989/687359c23937780c591956dea3bfec78_normal.png" alt="" />
+                            <div>
+                                Mattr                                <a href="http://twitter.com/Mattr_co">@Mattr_co</a>
+                                <span>4D </span>
+                                <p>'Approachable Genius'- keep it simple and you'll appear more authentic <a href="http://t.co/L3RepWp342" target="_blank">http://t.co/L3RepWp342</a> <a href="http://search.twitter.com/search?q=%23entrepreneurs" target="_blank">#entrepreneurs</a>... <a href="http://t.co/CwPsOr0GYi" target="_blank">http://t.co/CwPsOr0GYi</a></p>
+                            </div>
+                        </img>
+                    </div>
+
+
+        </div> <!-- End #container -->
+    </body>
+</html>
+

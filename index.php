@@ -15,10 +15,9 @@
             <?php
                 /* Settings
                  * -------------------------------------------------------------
-                 * @see https://dev.twitter.com/docs/api/1.1/get/statuses/user_timeline
                  */
-                $max_tweets = 3;
-                $query = '#RorschachDoodle';
+                $twitter_account = 'mattr_co';
+                $num_tweets = 3;
 
 
                 /* OAuth
@@ -41,19 +40,18 @@
 
                 /* Pull content from Twitter
                  * -------------------------------------------------------------
+                 * @see https://dev.twitter.com/docs/api/1.1/get/statuses/user_timeline
                  * @see /misc/sample-twitter-query-result.txt
                  */
-                $query_results = $connection->get("search/tweets",
+                $tweets = $connection->get("statuses/user_timeline",
                     array(
-                        // @
-                        'q' => $query,
+                        'screen_name' => $twitter_account,
                         'lang' => 'en',
-                        'count' => '5',
+                        'count' => $num_tweets,
                         'result_type' => 'mixed',
                         'include_entities' => 'true'
                     )
                 );
-                $tweets = $query_results->statuses;
 
 
                 /* Display Tweets
@@ -62,7 +60,7 @@
                  * @see https://dev.twitter.com/docs/entities
                  */
                 // Loop through tweets and display the latest
-                for ($i=0; $i < $max_tweets; $i++) {
+                for ($i=0; $i < $num_tweets; $i++) {
                     // Save tweet data
                     $username = $tweets[$i]->user->name;
                     $handle = '@' . $tweets[$i]->user->screen_name;
@@ -75,7 +73,6 @@
                     <div>
                         <img src="<?=$profile_picture;?>" alt="" />
                             <div>
-                                <h3>Latest From Twitter</h3>
                                 <?=$username;?>
                                 <a href="<?=$profile_url;?>"><?=$handle;?></a>
                                 <span><?=$timestamp;?></span>
@@ -84,7 +81,7 @@
                         </img>
                     </div>
 
-            <?php } # End for($i < $max_tweets) ?>
+            <?php } # End for($i < $num_tweets) ?>
 
         </div> <!-- End #container -->
     </body>
