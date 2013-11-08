@@ -17,7 +17,7 @@
                  * -------------------------------------------------------------
                  */
                 $twitter_account = 'mattr_co';
-                $num_tweets = 3;
+                $num_tweets = 1;
 
 
                 /* OAuth

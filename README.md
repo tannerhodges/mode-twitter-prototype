@@ -1,5 +1,5 @@
 # MODE Twitter Prototype
-Simple prototype to display the last 2-3 tweets of a specific user with custom formatting.
+Simple prototype to display the latest tweet(s) of a specific user with custom formatting.
 
 ### Configuration
 - OAuth settings are in /config.php
