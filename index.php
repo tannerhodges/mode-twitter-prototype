@@ -115,7 +115,7 @@ function _ago($tm,$rcs = 0) {
 }
 
 // Convert plain text from tweet to functioning links
-// @seehttps://github.com/madebymode/arbor-networks-infosec-dashboard/blob/master/feed/src/TwitterList.php
+// @see https://github.com/madebymode/arbor-networks-infosec-dashboard/blob/master/feed/src/TwitterList.php
 function linkify_tweet($tb) {
     $tb = ' ' . $tb;
     //usernames
