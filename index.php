@@ -71,12 +71,12 @@
 
                     // HTML output ?>
                     <div>
-                        <img src="<?=$profile_picture;?>" alt="" />
+                        <img src="<?php echo $profile_picture;?>" alt="" />
                             <div>
-                                <?=$username;?>
-                                <a href="<?=$profile_url;?>"><?=$handle;?></a>
-                                <span><?=$timestamp;?></span>
-                                <p><?=$content;?></p>
+                                <?php echo $username;?>
+                                <a href="<?php echo $profile_url;?>"><?php echo $handle;?></a>
+                                <span><?php echo $timestamp;?></span>
+                                <p><?php echo $content;?></p>
                             </div>
                         </img>
                     </div>
